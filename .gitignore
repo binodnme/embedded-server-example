@@ -1,0 +1,11 @@
+#idea
+.idea/
+embeded-server.iml
+
+#jetty
+jetty/target/
+jetty/jetty.iml
+
+#tomee
+tomee/target
+tomee/tomee.iml
